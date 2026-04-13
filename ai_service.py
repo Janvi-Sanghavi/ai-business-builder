@@ -3,7 +3,7 @@ import re
 import requests
 from flask import current_app
 
-GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
+GROQ_API_URL = "YOUR_GROQ_API"
 
 
 # ── GROQ CALL ─────────────────────────────────────────────────────────────────
